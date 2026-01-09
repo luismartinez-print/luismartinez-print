@@ -1,10 +1,11 @@
 
 ---
 ---
-<p align='center'>
-<img src="images/header.png" style="display:block; margin: 0 auto;" width = "80%">
+<p align="center">
+  <a href="https://www.rev-m.net/" target="_blank">
+    <img src="images/header.png" width="80%" alt="Header Image" />
+  </a>
 </p>
-
 <br>
 
 I'm Luis Martinez and I am passionate about Revenue Management and Data Science.
