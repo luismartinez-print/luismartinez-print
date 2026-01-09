@@ -3,7 +3,7 @@
 ---
 <p align="center">
   <a href="https://www.rev-m.net/" target="_blank">
-    <img src="images/header.png" width="80%" alt="Header Image" />
+    <img src="images/header.png" width="450" height="150" alt="Header Image" />
   </a>
 </p>
 <br>
